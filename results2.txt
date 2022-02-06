@@ -1,0 +1,7 @@
+Start money: 2 | Trade Amount: 1 | Num Population: 10000
+
+Person with everything: Person 4606 has $20000 and has done 72458784 number of trades.
+
+Total number of trades: 124419816
+
+1604.4762728214264 seconds
