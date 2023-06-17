@@ -1,8 +1,0 @@
-Start money: 100 | Trade Amount: 50 | Num Population: 100
-
-Person with everything: Person 24 has $10000
-
-Total number of trades: 38566
-
-0.09629487991333008 seconds
-
